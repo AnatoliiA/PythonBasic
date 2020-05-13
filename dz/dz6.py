@@ -13,4 +13,4 @@ def check_revese (str):
 		return False
 
 
-print(check_revese(pallndrome))
+print(' это паллиндром?  ответ', check_revese(pallndrome))
